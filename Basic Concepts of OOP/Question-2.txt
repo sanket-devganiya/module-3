@@ -1,0 +1,57 @@
+//What is OOP? List OOP concepts
+
+
+//Here are the key concepts of OOP:
+
+
+//1...[Classes]..: Blueprints for creating objects.
+// A class defines a type of object according to its attributes 
+//and methods 
+
+
+//2...[Objects]: Instances of classes. 
+//An object is a self-contained unit that 
+//contains both data and methods to manipulate that data.
+
+
+//3...[Encapsulation]: The practice of keeping data 
+//and the code that manipulates the data 
+// together in one unit, i.e., the object. Encapsulation hides the internal 
+//state of the object from the outside world and only exposes a controlled interface for interaction.
+
+
+
+//4..[Inheritance]: A mechanism for creating a new class that is based on an existing class.
+// The new class inherits attributes and methods from the existing class , 
+//allowing for code reuse and the creation of hierarchical relationships between classes.
+
+
+
+
+//5..[Polymorphism]:The ability of different classes to be treated as instances of the same 
+//class through a common interface. 
+//It allows methods to do different things based on the object it is acting upon, 
+//often achieved through method overriding and method overloading.
+
+
+
+//6..[Abstraction]: The concept of hiding complex implementation details and showing only the 
+//necessary features of an object. Abstraction allows the programmer to focus on interactions 
+//at a higher level without needing to understand the underlying implementation.
+
+
+//7..[Composition]: A design principle where objects are composed of other objects.
+// Instead of inheriting from a class, a class can contain objects of other classes, 
+//promoting code reuse and flexibility.
+
+
+
+//8..[Aggregation]: A special form of association where the contained objects can exist 
+//independently of the container object. It represents a "has-a" relationship where the lifetime 
+//of the contained objects is not tied to the lifetime of the container object.
+
+
+//9..[Association]:  A relationship between two classes where one class uses or interacts with another class. 
+//Association represents how objects of one class can be connected to objects of another class.
+
+

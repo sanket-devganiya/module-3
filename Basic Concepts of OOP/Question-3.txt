@@ -1,0 +1,83 @@
+//What is the difference between OOP and POP?
+
+
+
+//1..{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{}}}}{{[Fundamental Concept]:}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+
+//  -- {OOP} (Object-Oriented Programming)
+//1.Focuses on objects and classes.
+//2.Objects represent real-world entities and encapsulate both data and behavior.
+//3.Emphasizes modularity, reusability, and abstraction.
+
+
+//  -- {POP} (Procedural Oriented Programming)
+//1.Focuses on procedures or functions.
+//2.Functions operate on data, which is often organized into structures but not necessarily
+// encapsulated within the functions.
+//3.Emphasizes sequential execution of tasks and modularization through functions.
+
+
+
+//2..{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{Data and Methods}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+
+//  -- {OOP:}
+//1.Data and methods are bundled together in classes.
+//2.Access to data is controlled through methods, promoting encapsulation.
+
+// --{POP:}
+//1.Data is separate from the functions. Functions operate on data but do not encapsulate it.
+//2.Data and procedures are usually kept in separate modules or files.
+
+
+
+//3..{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{Code Organization}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+//  -- {OOP}
+//1.Organizes code around objects and classes.
+//2.Encourages hierarchical relationships through inheritance.
+//3.Supports polymorphism where the same method can act differently based on the object.
+
+//  -- {pop}
+//1.Organizes code around functions and procedures.
+//2.Emphasizes a linear or step-by-step flow of control.
+//3.Does not natively support polymorphism but allows code reuse through functions.
+
+
+//4..{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{Reusability and Maintenance}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+//  -- {oop}
+//1.Promotes code reuse through inheritance and composition.
+//2.Easier to maintain and extend due to encapsulation and abstraction.
+
+//  --{pop}
+//1.Reusability is achieved through function libraries.
+//2.Maintenance can be challenging as the codebase grows, due to the lack of encapsulation.
+
+
+
+//5..{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{Abstraction}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+//  --{oop}
+//1.Uses abstraction to hide complex implementation details and show only necessary parts of objects.
+//2.Allows designing high-level systems with a focus on interactions between objects.
+
+//  --{pop}
+//1.Abstraction is less emphasized. 
+//2.Functions can abstract specific tasks but often operate on more visible data structures.
+
+
+
+//6..{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{Examples of Languages}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+//  --{oop}
+//1.Java, C++, Python, C#, Ruby.
+
+//  -- {pop}
+//1.C, Pascal, Fortran, early versions of BASIC.
+
+
+
+//7..{{{{{{{{}{}{}{}{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{Design Approach}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+//  --{oop}
+//1.Modeling real-world entities and their interactions.
+//2.More suited for complex systems where modeling and managing state and behavior are crucial.
+
+//  --{pop}
+//1.Step-by-step instructions to perform tasks.
+//2.Often used for simpler tasks or algorithms where the procedural flow is clear and straightforward.
